@@ -161,7 +161,7 @@ This repository was intially created for friends of mine who wished to see my so
   <tr>
     <td>3</td>
     <td>Single Element in a Sorted Array</td>
-    <td>CodeChef</td>
+    <td>LeetCode</td>
     <td><a href="https://github.com/tdstyrone/LeetCode-Solutions/tree/master/PythonSolutions/Medium/Single-Element-in-a-Sorted-Array">Link</a></td>
   </tr>
   <tr>
